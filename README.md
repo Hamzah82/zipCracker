@@ -1,7 +1,7 @@
 
-# AutoJohn - Automatic ZIP Password Cracker using John the Ripper
+# zipCracker - Automatic ZIP Password Cracker using John the Ripper
 
-AutoJohn is a Python script that automates the process of cracking password-protected ZIP files using [John the Ripper](https://www.openwall.com/john/).
+zipCracker is a Python script that automates the process of cracking password-protected ZIP files using [John the Ripper](https://www.openwall.com/john/).
 
 ## 🔧 Requirements
 
