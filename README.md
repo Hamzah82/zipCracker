@@ -56,7 +56,7 @@ If you interrupt the cracking process, John will save a session file and you can
 john --restore
 ```
 ## 🔑 KEY
-Get the access key [here](https://sfl.gl/LODVkrZ) 
+Get the access key [here](https://sfl.gl/MY01e) 
 
 
 
